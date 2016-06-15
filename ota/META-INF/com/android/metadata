@@ -1,0 +1,3 @@
+post-build=ZTE/P897S11MG/msm8974:4.4.2/KVT49L/eng.ztetd.20150505.205403:user/release-keys
+post-timestamp=1430830489
+pre-device=msm8974
